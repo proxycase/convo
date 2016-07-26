@@ -1,7 +1,12 @@
-Convo.js
+Convo.js Meets Twine
 =====
 
 Convo is a tiny conversation tree interface in Node.js
+Twine is a dialoge tree editor that exports HTML.
+
+This project is taking Convo and Twine and trying to create a workflow between the two systems so that I can make dialogues in Twine, and run them in Node using Convo.
+
+--> Everything after here is the README for Convo.
 
 What it do
 ----------------------------
